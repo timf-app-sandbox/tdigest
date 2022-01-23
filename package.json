@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "tdigest": "0.1.1",
-    "grunt-pure-cjs": "^1.4.0",
+    "grunt-pure-cjs": "^1.4.0"
   }
 }
