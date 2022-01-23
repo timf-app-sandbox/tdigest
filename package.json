@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "tdigest": "0.1.1"
+    "tdigest": "0.1.1",
+    "grunt-pure-cjs": "^1.4.0",
   }
 }
